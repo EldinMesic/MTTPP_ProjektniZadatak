@@ -1,6 +1,6 @@
 # MTTPP_ProjektniZadatak
 
-Projekt je napravljen koristeći javascript programski jezik, a napisan preko visual studio code-a. Testni slučajevi su testirano koristeći Cypress (https://www.cypress.io/) alat za automatizirane testove.
+Projekt je napravljen koristeći javascript programski jezik, a napisan preko visual studio code-a. Testni slučajevi su testirani koristeći Cypress (https://www.cypress.io/) alat za automatizirane testove.
 
 
 Stranica nad kojom su se izvršavali testovi je DemoBlaze (https://www.demoblaze.com/), lažna e-shop stranica za elektroničku opremu.
